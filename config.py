@@ -1,2 +1,3 @@
 import os
-API_KEY="AIzaSyC2T_9lGClUiXVoZjtQAC3kE-aZMDW_ynM"
+
+API_KEY="AIzaSyB-HoRrdxc5g7kSpFUT7RV3183lF_uyJ8A"
